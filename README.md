@@ -1,8 +1,5 @@
 <h1 align="center">Hey there, I'm Sohan 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Compressed_Profile_Pic_Under_1MB.jpg" width="180" alt="Sohan's Avatar" style="border-radius: 50%;" />
-</p>
 
 ---
 
